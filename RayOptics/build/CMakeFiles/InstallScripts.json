@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kepler/RayOptics_Fase1/RayOptics/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

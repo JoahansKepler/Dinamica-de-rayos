@@ -1,0 +1,4 @@
+/home/kepler/RayOptics_Fase1/RayOptics/build/CMakeFiles/glad.dir
+/home/kepler/RayOptics_Fase1/RayOptics/build/CMakeFiles/RayOptics.dir
+/home/kepler/RayOptics_Fase1/RayOptics/build/CMakeFiles/edit_cache.dir
+/home/kepler/RayOptics_Fase1/RayOptics/build/CMakeFiles/rebuild_cache.dir
